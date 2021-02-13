@@ -12,6 +12,6 @@ package pruebapersona;
  */
 public class ClaseCommit1º {
     //comentarios de prueba
-    
+    // segundos comentarios en el segundo commit
 
 }
